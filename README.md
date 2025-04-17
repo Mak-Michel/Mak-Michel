@@ -16,7 +16,7 @@
 <img align="center" src="https://i.ibb.co/Zg039Nt/icons8-gmail-480.png" alt="Gmail" height="44" width="40" style="margin-right: 5px;" /></a>
 <a href="mailto:es-MakarioMichel2025@alexu.edu.eg" target="_blank">
 <img align="center" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="Outlook" height="40" width="40" style="margin-right: 5px;" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/makario-michel-164a44241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/makario-michel-164a44241/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/makario-michel-164a44241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/makario-michel-164a44241/" height="30" width="40" /></a>
 </p>
 <h3 align="left">Find me in:</h3>
 <p align="left">
